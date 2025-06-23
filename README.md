@@ -4,7 +4,7 @@ Deep learning model for quantifying vascular invasion in pancreatic ductal adeno
 ## Descriptions  
 A deep learning framework for automatic segmentation and angle-based quantification of vascular invasion in pancreatic ductal adenocarcinoma.
 
-## ighlights
+## Highlights
 - **Disease**: Pancreatic Ductal Adenocarcinoma (PDAC)
 - **Goal**: Automated quantification of vascular invasion (VI)
 - **Modalities**: Contrast-enhanced CT
