@@ -2,7 +2,7 @@
 Deep learning model for quantifying vascular invasion in pancreatic ductal adenocarcinoma
 
 ## Descriptions  
-We developed PAN-VIQ, an automated framework to quantify the extent of vascular invasion in PDAC
+A deep learning framework for automatic segmentation and angle-based quantification of vascular invasion in pancreatic ductal adenocarcinoma.
 
 ## ighlights
 - **Disease**: Pancreatic Ductal Adenocarcinoma (PDAC)
