@@ -20,7 +20,7 @@ A deep learning framework for automatic segmentation and angle-based quantificat
   - 肝总动脉（CHA）
   - 门静脉（PV）
   - 肠系膜上静脉（SMV）
-- 计算肿瘤与动脉之间的三维/二维空间包绕角度
+- 计算肿瘤与血管之间的三维/二维空间包绕角度
 - 输出标准化评估表（如包绕角 >180° 提示手术困难）
 
 ## Releases  
@@ -29,13 +29,10 @@ A deep learning framework for automatic segmentation and angle-based quantificat
 - 输出角度可视化截图和分析结果  
 
 ## About  
-PDAC 项目由 The SJTU-Ruijin-UIH Institute for Medical Imaging Technology 开发，致力于建立临床实用的胰腺癌术前分析 AI 工具链，帮助医生实现肿瘤血管关系快速判断与切除可行性评估。
+PDAC 项目由 The SJTU-Ruijin-UIH Institute for Medical Imaging Technology 开发，致力于建立临床实用的PDAC术前分析AI工具链，帮助医生实现肿瘤血管关系快速判断与切除可行性评估。
 
 ## Resources  
-- [Readme](./README.md)  
-- [Code](./src)  
-- [Data (protected)](./data)  
-- [Outputs](./output)
+
 
 ## Languages  
 Python  
