@@ -4,8 +4,9 @@ Deep learning model for quantifying vascular invasion in pancreatic ductal adeno
 ## Descriptions  
 A deep learning framework for automatic segmentation and angle-based quantification of vascular invasion in pancreatic ductal adenocarcinoma.
 
-## Installation
-**Clone the repository**
+# Installation
+
+## Clone the repository
 ```bash
 git clone https://github.com/<YOUR_ORG>/PDAC.git
 cd PDAC
