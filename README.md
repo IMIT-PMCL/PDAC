@@ -1,4 +1,4 @@
-# PDAC  
+# PAN-VIQ
 Deep learning model for quantifying vascular invasion in pancreatic ductal adenocarcinoma
 
 ## Descriptions  
@@ -12,24 +12,24 @@ A deep learning framework for automatic segmentation and angle-based quantificat
 - **Applications**: Surgical decision-making, resectability evaluation, radiology support
 
 ## Functions  
-- 加载增强CT动脉期/静脉期增强CT图像（NIfTI格式）
-- 自动定位并提取以下结构的掩膜区域：
-  - 动/静脉期肿瘤（Tumor）
-  - 肠系膜上动脉（SMA）
-  - 腹腔动脉（CA）
-  - 肝总动脉（CHA）
-  - 门静脉（PV）
-  - 肠系膜上静脉（SMV）
-- 计算肿瘤与血管之间的三维/二维空间包绕角度
-- 输出标准化评估表（如包绕角 >180° 提示手术困难）
+- Load contrast-enhanced CT images in arterial and venous phases (NIfTI format)
+- Automatically localize and extract masks for:
+  - Tumor (arterial/venous phases)
+  - Superior mesenteric artery (SMA)
+  - Celiac artery (CA)
+  - Common hepatic artery (CHA)
+  - Portal vein (PV)
+  - uperior mesenteric vein (SMV)
+- Compute 3D spatial encasement angles between the tumor and vessels
+- Output a standardized assessment report
 
 ## Releases  
 2025.06.20 - v1.0  
-- 支持NIfTI加载、角度计算、结构提取  
-- 输出角度可视化截图和分析结果  
+- Supports NIfTI loading, segmentation, and angle computation
+- Outputs analysis results  
 
 ## About  
-PDAC 项目由 The SJTU-Ruijin-UIH Institute for Medical Imaging Technology 开发，致力于建立临床实用的PDAC术前分析AI工具链，帮助医生实现肿瘤血管关系快速判断与切除可行性评估。
+Developed by the SJTU-Ruijin-UIH Institute for Medical Imaging Technology, the PAN-VIQ project aims to build clinically practical preoperative AI tools for PDAC, helping physicians rapidly assess tumor–vessel relationships and evaluate surgical resectability.
 
 ## Resources  
 
