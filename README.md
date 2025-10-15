@@ -8,7 +8,7 @@ A deep learning framework for automatic segmentation and angle-based quantificat
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<YOUR_ORG>/PDAC.git
+git clone https://github.com/IMIT-PMCL/PDAC.git
 cd PDAC
 ```
 
