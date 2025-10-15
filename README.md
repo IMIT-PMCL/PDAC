@@ -10,6 +10,7 @@ A deep learning framework for automatic segmentation and angle-based quantificat
 ```bash
 git clone https://github.com/<YOUR_ORG>/PDAC.git
 cd PDAC
+```
 
 ## Highlights
 - **Disease**: Pancreatic Ductal Adenocarcinoma (PDAC)
